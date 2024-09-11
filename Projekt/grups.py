@@ -1,0 +1,8 @@
+
+
+
+WHITE = (255, 255, 255)
+BLACK = (0, 0, 0)
+RCOLOR = (34,135,12)
+WIDTH, HEIGHT = 800, 600
+FPS=60
